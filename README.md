@@ -11,7 +11,7 @@ This project is a serverless vehicle booking system developed for CST8917 Lab 3.
    - **False:** Sends rejection email and publishes to `rejected-sub` Topic.
 
 ## Demo Video
-[[PASTE YOUR YOUTUBE LINK HERE](https://youtu.be/MW1OdtAE7gg)]
+[[demo Video Link](https://youtu.be/MW1OdtAE7gg)]
 
 ## Setup Instructions
 1. Clone the repository.
